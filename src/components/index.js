@@ -3,7 +3,9 @@ import CreatePost from "./Button/CreatePost";
 import Post from "./Post/Post";
 
 const components = {
-   Navigation, CreatePost, Post
-}
+  Navigation,
+  CreatePost,
+  Post,
+};
 
 export default components;
