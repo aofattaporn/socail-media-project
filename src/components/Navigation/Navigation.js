@@ -14,7 +14,7 @@ const Navigation = () => {
       style={{ backgroundColor: "#21252B" }}
     >
       <div className="logo-container mr-20">
-        <h1 className=" font-bold text-4xl text-white">MED</h1>
+        <h1 className=" font-bold text-4xl text-yellow-500">MED</h1>
       </div>
 
       <div className="container-100 hidden md:flex justify-between grow list-none mt-3 font-bold ">
